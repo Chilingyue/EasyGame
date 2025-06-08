@@ -1,0 +1,2 @@
+# EasyGame
+Just for easy.
